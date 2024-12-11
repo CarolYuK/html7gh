@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(fondo\ navidad.avif);
+    background-size: cover;
+    
+}
+.caja
+{
+    margin-top: 10%;
+    background-image: url(fondo\ navidad2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 40%;
+    font-style: italic;
+    font-size: xx-large;
+    color: whitesmoke;
+    text-align: center;
+    align-content: center;
+}
